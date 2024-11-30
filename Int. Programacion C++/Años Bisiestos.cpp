@@ -1,3 +1,8 @@
+/*
+  Identificador de anios bisiestos 
+  Int. a la programacion
+  Allan Hall Solorio 358909
+*/
 #include<iostream>
 using namespace std;
 
