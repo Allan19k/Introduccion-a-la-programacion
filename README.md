@@ -21,7 +21,7 @@ A continuación, se presenta una lista con cada uno de los ejercicios resueltos
 15. Matriz de puntos
 16. Matriz del alfabeto
 17. Piramide
-18. 
+18. Factorial
 
 # Autor
 * Allan Hall Solorio
