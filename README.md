@@ -22,6 +22,7 @@ A continuación, se presenta una lista con cada uno de los ejercicios resueltos
 16. Matriz del alfabeto
 17. Piramide
 18. Factorial
+19. Serie de Fibonacci (con recursion) extra: sin usar recursion 
 
 # Autor
 * Allan Hall Solorio
