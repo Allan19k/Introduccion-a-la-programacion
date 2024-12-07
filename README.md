@@ -17,7 +17,7 @@ A continuación, se presenta una lista con cada uno de los ejercicios resueltos
 11. Ejercicios 3 en 1
 12. Índice de masa corporal
 13. Mayor, menor y promedio
-14. Calculo de Potencia 1/(2*1) + 2/(2*2).. n/(2*n)
+14. Calculo de Potencia 1/(2 * 1) + 2/(2*2).. n/(2*n)
 15. Matriz de puntos
 16. Matriz del alfabeto
 17. Piramide
