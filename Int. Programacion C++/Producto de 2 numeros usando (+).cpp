@@ -28,6 +28,7 @@ int main(){
 	// mostrar el resultado
 	int resultado = producto(x,y);
 	cout<<"\nx = "<< x <<"\ny = "<< y << "\n";
+	cout << "\nResultado = " << resultado << endl;
 	
 	return 0;
 }
