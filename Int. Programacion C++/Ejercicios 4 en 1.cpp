@@ -18,7 +18,7 @@ void solicitarNumeros(int* arreglo, int n){
 // 2. Funcion para imprimir el arreglo
 
 void imprimirArreglo(int* arreglo, int n){
-	cout<<"\n\tsArreglo: ";
+	cout<<"\n\tArreglo: ";
 	for(int i=0; i<n; i++){
 		cout<<arreglo[i]<<" ";
 	}
