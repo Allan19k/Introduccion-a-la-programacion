@@ -9,7 +9,7 @@ using namespace std;
 
 int main(){
 	
-	struct Direccion{
+struct Direccion{
 	char calle[20];
 	int numero;
 	char colonia[20];
