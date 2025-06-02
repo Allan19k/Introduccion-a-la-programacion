@@ -1,7 +1,7 @@
 # 👨‍💻✨ *Introducción a la Programación en C++*
 
-Este repositorio contiene una colección de **ejercicios básicos en C++** diseñados para reforzar los **conceptos fundamentales de programación**.  
-Perfecto para quienes se están iniciando en el mundo del desarrollo de software 🚀.
+Este repositorio contiene una colección de **ejercicios básicos en C++** (y en python) diseñados para reforzar los **conceptos fundamentales de programación**.  
+Perfecto para quienes se están iniciando en el mundo de la programación 🚀.
 
 📚 A lo largo de estos ejercicios practicarás:
 
@@ -58,6 +58,6 @@ Aquí tienes la lista de ejercicios disponibles en este repositorio:
 
 ---
 
-> 💡 ¡Explora los ejercicios y aprende practicando con C++ desde cero!  
+> 💡 ¡Explora los ejercicios y aprende practicando con C++ y python desde cero!  
 > Si te gusta este proyecto, no olvides dejar una estrella ⭐ en el repositorio.
 
